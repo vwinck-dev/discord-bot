@@ -11,7 +11,7 @@
   "license": "MIT",
   "description": "Chimera is an open-source, all-in-one Discord bot built for power and flexibility. Inspired by the mythical creature, it merges multiple abilities—moderation, automation and customization—into one intelligent core. Designed for developers and communities who demand versatility, Chimera evolves to fit any server's needs.",
   "dependencies": {
-    "discord.js": "^14.22.1",
+    "discord.js": "^14.25.1",
     "dotenv": "^17.2.2"
   }
 }
